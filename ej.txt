@@ -1,1 +1,2 @@
-lalalla
+chinos,1232.222
+panaderia,122
